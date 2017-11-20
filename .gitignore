@@ -102,3 +102,7 @@ ENV/
 
 # Ignore vs code files.
 .vscode
+
+
+# Ignore checkpoints directory
+checkpoints/
