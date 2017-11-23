@@ -106,3 +106,4 @@ ENV/
 
 # Ignore checkpoints directory
 checkpoints/
+imagenet/
